@@ -13,4 +13,4 @@ Building on this foundation, if time permits, the study will explore additional 
 
 Another key feature that can be explored is joint object manipulation, enabling multiple users to interact with virtual objects simultaneously. This feature will facilitate collaborative planning and decision-making, allowing surgical teams to visualize and manipulate 3D models of anatomy or surgical instruments together.
 
-By integrating these new features, this study aims to create an immersive and interactive MR environment that enhances communication, collaboration, and precision in the operating room. Ultimately, this technology has the potential to transform surgical practices, improve training outcomes, and contribute to safer and more efficient surgeries.
+This study aims to create an immersive and interactive MR environment that enhances communication, collaboration, and precision in the operating room. Ultimately, this technology has the potential to transform surgical practices, improve training outcomes, and contribute to safer and more efficient surgeries.
