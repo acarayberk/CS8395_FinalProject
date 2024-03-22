@@ -2,7 +2,7 @@
 
 Project Title: Enhanced Mixed Reality Application for Operating Room Communication
 
-AR Technology and APIs: Unity, Vuforia
+AR Technology and APIs: Unity, Vuforia, Mixed Reality Toolkit
 
 Project Description:
 The operating room is a complex environment where clear communication and collaboration are crucial for the success and safety of surgical procedures. Traditional communication methods, primarily verbal, are often prone to misunderstandings and can lack the precision needed in such a high-stakes setting. To address this challenge, this study proposes an innovative mixed reality (MR) application that leverages the Microsoft HoloLens 2 headsets to enhance communication and collaboration among surgical teams.
