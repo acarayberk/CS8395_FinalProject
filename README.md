@@ -19,6 +19,6 @@ This study aims to create an immersive and interactive MR environment that enhan
 
 
 **MVD Update:**
-https://github.com/acarayberk/CS8395_FinalProject/assets/106617053/af5ed538-d56c-4109-abe7-c0d43eca06d1
+![](https://github.com/acarayberk/CS8395_FinalProject/assets/106617053/af5ed538-d56c-4109-abe7-c0d43eca06d1)
 
 
