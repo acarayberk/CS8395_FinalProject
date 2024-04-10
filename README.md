@@ -19,6 +19,11 @@ This study aims to create an immersive and interactive MR environment that enhan
 
 
 **MVD Update:**
+
+In the video below, current progress on the application can be seen. I have created a Hololens 2 application that uses Azure Spatial anchors for a coordinate system origin, tracks the eye gaze and shows it as a hologram, and follows the hand movements and display as a marker. 
+
+In current stage, all the holograms (objects and gaze markers) are visible for all users and sharing should not be a problem, but further testing with multiple devices is required. In addition, hand markers are not saved/shared right now which will be added as a feature for the final version. Displaying and manipulating (translation, rotation etc.) of other objects will also be analyzed and tested with two Hololenses. Finally, method for placing the anchor will be changed, since at the current version, it is placed on the coordinate system of first user that starts the app, and this is not a trustworthy solution. For the next steps, I will focus on the tests with multiple Hololenses, manipulation of shared objects and anchor placement. 
+
 ![](https://github.com/acarayberk/CS8395_FinalProject/assets/106617053/af5ed538-d56c-4109-abe7-c0d43eca06d1)
 
 
