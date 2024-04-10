@@ -16,3 +16,9 @@ Building on this foundation, if time permits, the study will explore additional 
 Another key feature that can be explored is joint object manipulation, enabling multiple users to interact with virtual objects simultaneously. This feature will facilitate collaborative planning and decision-making, allowing surgical teams to visualize and manipulate 3D models of anatomy or surgical instruments together.
 
 This study aims to create an immersive and interactive MR environment that enhances communication, collaboration, and precision in the operating room. Ultimately, this technology has the potential to transform surgical practices, improve training outcomes, and contribute to safer and more efficient surgeries. Testing and validation of the system will be done using the two Hololens 2 systems MAPLE Lab owns. 
+
+
+**MVD Update:**
+https://github.com/acarayberk/CS8395_FinalProject/assets/106617053/af5ed538-d56c-4109-abe7-c0d43eca06d1
+
+
