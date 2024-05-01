@@ -2,7 +2,7 @@
 
 Project Title: Enhanced Mixed Reality Application for Operating Room Communication
 
-AR Technology and APIs: Unity, Mixed Reality Toolkit, Azure Spatial Anchors
+AR Technology and APIs: Unity, Mixed Reality Toolkit, Azure Spatial Anchors, Photon Unity Network
 
 Project Description:
 The operating room is a complex environment where clear communication and collaboration are crucial for the success and safety of surgical procedures. Traditional communication methods, primarily verbal, are often prone to misunderstandings and can lack the precision needed in such a high-stakes setting. To address this challenge, this study proposes an innovative mixed reality (MR) application that leverages the Microsoft HoloLens 2 headsets to enhance communication and collaboration among surgical teams.
@@ -30,4 +30,4 @@ https://youtu.be/SF0wN4_E3LU
 
 **Final Version Update:**
 
-General scripts such as transition between scenes (ChangeScene.cs), tracking position of QRCode after initialization and moving it to next scene, initializing anchor object (InitObject.cs), and changing marker colors for different users can be found under "Assets/Script". Additional codes for QR code management can be found under "Assets/QRCode Script". In addition to short scripts written for tasks, packages and frameworks such as Azure Spatial Anchors, QRCode, and Mixed Reality Toolkit (MRTK) are used in this project. To compile, it requires to be built using Unity for Universal Windows Platform and deployed to Hololens 2 using Visual Studio (v2019 recommended). Additional help for deployment can be found in this link: https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/build-and-deploy-to-hololens. Build files are not included in the repository due to large file sizes. Once built and deployed, application can be started from the Hololens 2 menu.
+General scripts such as the transition between scenes (ChangeScene.cs), tracking the position of QRCode after initialization and moving it to the next scene, initializing anchor object (InitObject.cs), and changing marker colors for different users can be found under "Assets/Script". Additional codes for QR code management can be found under "Assets/QRCode Script". In addition to short scripts written for tasks, packages and frameworks such as Azure Spatial Anchors, QRCode, Photon Unity Network, and Mixed Reality Toolkit (MRTK) are used in this project. To compile, it requires to be built using Unity for Universal Windows Platform and deployed to Hololens 2 using Visual Studio (v2019 recommended). Additional help for deployment can be found on this link: https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/build-and-deploy-to-hololens. Build files are not included in the repository due to large file sizes. Once built and deployed, the application can be started from the Hololens 2 menu.
