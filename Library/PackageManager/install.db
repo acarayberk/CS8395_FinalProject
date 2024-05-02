@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.microsoft.mixedreality.openxr": {
+      "tarball": {
+        "hash": "cc778a815d9b",
+        "mtime": 1660321316777,
+        "size": 11754300,
+        "localPath": "E:\\Unity Project Disk E\\Test_Multi_User_34f1\\Packages\\MixedReality\\com.microsoft.mixedreality.openxr-1.4.4.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.foundation": {
+      "tarball": {
+        "hash": "321dd3d08b64",
+        "mtime": 1660321316130,
+        "size": 11554543,
+        "localPath": "E:\\Unity Project Disk E\\Test_Multi_User_34f1\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.foundation-2.8.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.standardassets": {
+      "tarball": {
+        "hash": "5e90f7dbbcd8",
+        "mtime": 1660321316104,
+        "size": 5302738,
+        "localPath": "E:\\Unity Project Disk E\\Test_Multi_User_34f1\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.standardassets-2.8.2.tgz"
+      }
+    },
+    "com.microsoft.spatialaudio.spatializer.unity": {
+      "tarball": {
+        "hash": "f1bb3b9fa495",
+        "mtime": 1677871979900,
+        "size": 83220614,
+        "localPath": "E:\\Unity Project Disk E\\Test_Multi_User_34f1\\Packages\\MixedReality\\com.microsoft.spatialaudio.spatializer.unity-2.0.37.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.examples": {
+      "tarball": {
+        "hash": "c47efbe1f8cd",
+        "mtime": 1661372838066,
+        "size": 55085272,
+        "localPath": "E:\\Unity Project Disk E\\Test_Multi_User_34f1\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.examples-2.8.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.extensions": {
+      "tarball": {
+        "hash": "07db80b5ea14",
+        "mtime": 1661372836513,
+        "size": 1129390,
+        "localPath": "E:\\Unity Project Disk E\\Test_Multi_User_34f1\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.extensions-2.8.2.tgz"
+      }
+    },
+    "com.microsoft.mixedreality.toolkit.tools": {
+      "tarball": {
+        "hash": "e20aa4fa377a",
+        "mtime": 1661372836566,
+        "size": 2107313,
+        "localPath": "E:\\Unity Project Disk E\\Test_Multi_User_34f1\\Packages\\MixedReality\\com.microsoft.mixedreality.toolkit.tools-2.8.2.tgz"
+      }
+    },
+    "com.microsoft.azure.spatial-anchors-sdk.core": {
+      "tarball": {
+        "hash": "fc109db5a78b",
+        "mtime": 1677898378322,
+        "size": 84498,
+        "localPath": "E:\\Unity Project Disk E\\Test_Multi_User_34f1\\Packages\\MixedReality\\com.microsoft.azure.spatial-anchors-sdk.core-2.13.3.tgz"
+      }
+    },
+    "com.microsoft.azure.spatial-anchors-sdk.windows": {
+      "tarball": {
+        "hash": "4bce2833f5cd",
+        "mtime": 1677898380066,
+        "size": 18372076,
+        "localPath": "E:\\Unity Project Disk E\\Test_Multi_User_34f1\\Packages\\MixedReality\\com.microsoft.azure.spatial-anchors-sdk.windows-2.13.3.tgz"
+      }
+    }
+  }
+}
