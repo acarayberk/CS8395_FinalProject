@@ -32,5 +32,6 @@ https://youtu.be/SF0wN4_E3LU
 
 General scripts such as the transition between scenes (ChangeScene.cs), tracking the position of QRCode after initialization and moving it to the next scene, initializing anchor object (InitObject.cs), and changing marker colors for different users can be found under "Assets/Script". Additional codes for QR code management can be found under "Assets/QRCode Script". In addition to short scripts written for tasks, packages and frameworks such as Azure Spatial Anchors, QRCode, Photon Unity Network, and Mixed Reality Toolkit (MRTK) are used in this project. To compile, it requires to be built using Unity for Universal Windows Platform and deployed to Hololens 2 using Visual Studio (v2019 recommended). Additional help for deployment can be found on this link: https://learn.microsoft.com/en-us/windows/mixed-reality/develop/unity/build-and-deploy-to-hololens. Build files are not included in the repository due to large file sizes. Once built and deployed, the application can be started from the Hololens 2 menu.
 
-Final demo video: https://youtu.be/UT46cr1oxhE
-Write-up: https://docs.google.com/document/d/1TqhOdFUysvPKT3WHDrXueJNj-inzeL0dRWvvI88mbKA/edit?usp=sharing
+**Final demo video:** https://youtu.be/UT46cr1oxhE
+
+**Write-up:** https://docs.google.com/document/d/1TqhOdFUysvPKT3WHDrXueJNj-inzeL0dRWvvI88mbKA/edit?usp=sharing
